@@ -1,0 +1,19 @@
+GIVE ORDERS
+FOLLOW ORDERS
+SAME RANK
+Class-D Personnel escaped
+Scientists survived
+Killed by SCP
+Terminated SCP subjects
+Alpha Warhead
+Detonated
+Unused
+The next round will start in [time] seconds.
+SPECIAL ABILITY
+CREATE SINKHOLE
+USE SINKHOLE
+YOU DIED
+Your butt was clapped by
+as
+Passive
+(hidden)

@@ -1,0 +1,8 @@
+<color=#00E061>R</color><color=#0ED35B>e</color><color=#1CC756>a</color><color=#2ABA50>d</color><color=#38AE4B>y</color> <color=#559540>t</color><color=#63883B>o</color> <color=#7F6F30>B</color><color=#8D632B>r</color><color=#9B5725>o</color><color=#AA4A20>a</color><color=#B83E1A>d</color><color=#C63115>c</color><color=#D42510>a</color><color=#E2180A>s</color><color=#F00C05>t</color>
+<b><color=#0033FF>O</color><color=#0F2EFE>n</color> <color=#2F24FD>A</color><color=#3F1FFC>i</color><color=#4E1BFC>r</color><color=#5E16FB>.</color><color=#6E11FB>.</color><color=#7E0CFA>.</color>\n<color=#FF0000>T</color><color=#EA0B14>I</color><color=#D61629>M</color><color=#C1213E>E</color> <color=#983768>L</color><color=#84437D>E</color><color=#6F4E92>F</color><color=#5B59A7>T</color><color=#4664BC>:</color> <color=#1D7AE6>{0}</color></b>
+<color=#0033FF>O</color><color=#0F2EFE>n</color> <color=#2F24FD>A</color><color=#3F1FFC>i</color><color=#4E1BFC>r</color><color=#5E16FB>.</color><color=#6E11FB>.</color><color=#7E0CFA>.</color>\nBYPASS MODE
+<b><color=#FF7300>R</color><color=#FF6812>e</color><color=#FF5E24>s</color><color=#FF5336>t</color><color=#FF4948>a</color><color=#FF3E5A>r</color><color=#FF346D>t</color><color=#FF297F>i</color><color=#FF1F91>n</color><color=#FF14A3>g</color>\n<color=#FF0AB5>{0}</color></b>
+ADMIN IS USING\nTHE INTERCOM NOW
+YOU ARE MUTED BY ADMIN
+UNKNOWN
+<b><color=#1100FF>P</color><color=#2200EC>L</color><color=#3300DA>E</color><color=#4400C8>A</color><color=#5500B6>S</color><color=#6600A3>E</color> <color=#88007F>W</color><color=#99006D>A</color><color=#AA005B>I</color><color=#BB0048>T</color><color=#CC0036>.</color><color=#DD0024>.</color><color=#EE0012>.</color></b>
