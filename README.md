@@ -1,5 +1,6 @@
 # Mayhem Pack
-<a href="https://github.com/xaze1/MayhemPack/releases/latest" alt="Latest release">
+<a href="https://github.com/xaze1/MayhemPack/releases/latest" alt="Latest release"><img src="https://img.shields.io/github/downloads-pre/Ruemena/RueI/latest/total?label=downloads"></a>
+<a href="https://github.com/Ruemena/RueI/releases/latest" alt="Latest release"><img src="https://img.shields.io/github/v/release/xaze1/MayhemPack"></a>
 
 A Custom Translation pack for SCP: Secret Laboratory - Dr. Bright's Facility Mayhem
 
