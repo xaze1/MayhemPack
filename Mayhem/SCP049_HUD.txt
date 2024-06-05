@@ -1,23 +1,23 @@
-This soul is no longer with us.
-This corpse has expired.
-This soul has been revived too many times.
-This soul no longer wants to be revived.
-This corpse cannot be revived.
-This corpse has already been consumed.
-Only human corpses may be consumed.
+The Player disconnected/respawned.
+The Time is up.
+You can't revive them again.
+They denied to be revived.
+You cannot revive this person.
+There's already pieces missing.
+You can only eat human flesh.
 ATTACK COOLDOWN
-You have denied further resurrection from SCP-049!
-Press [key] to deny further resurrection.
-No target found.
-You're already at full health.
-This corpse is already being consumed.
-Slow and fragile, SCP-049 specializes as an ambush predator, able to quickly turn the tide of a game with hordes of "cured" personnel.
-Fast and dangerous, SCP-049-2 instances swarm ahead of their master to sow panic and chaos, creating new bodies to join the tide.
-Cardiac Attack:You reach out your gloved hand to touch the hearts of those who suffer from the Pestilence, causing their bodily functions to fail rapidly; giving you the chance to administer your cure.
-Good Sense of the Doctor:You shift your full focus to a tainted soul. You move faster, determined to rid them of the Pestilence. You’re able to gauge a victim’s distance using the foul aroma of the disease.
-The Doctor’s Call:You signal your location to your cured personnel. As they stand near you, their bodies toughen up to tolerate more damage. A great doctor always checks up on their patients, after all.
-Waste Not, Want Not:Your medical instincts are not without a need for efficiency; you can revive the cured again and again to provide more insights. It's not every day that the dead rise twice.
-Lobotomized Bloodlust:Your mind was forcefully removed, leaving you with only violence. You find yourself pursuing humans faster and faster as you chase them down …
-Voracity:The cure isn't entirely without benefits. You can regenerate your flesh using the mass of any nearby corpse. There’s no sharing however, so make sure you’re the first to the feast.
+You will not be revived by <color=#9900B8>「</color><color=#0AADFF>D</color><color=#32BAFF>o</color><color=#5BC8FF>c</color><color=#84D5FF>t</color><color=#ADE3FF>o</color><color=#D6F1FF>r</color><color=#9F00DB>」</color>.
+Press [key] to deny the horde their demands.
+I need a soul to hunt...
+You're not hungry...
+Someone is eating the corpse, at the moment.
+Slow, yet powerful. One hit and, unless you have a SCP-500 or adrenaline, it's over.
+The Horde is fast and gets faster. Don't let them get high numbers or it's already over.
+Cardiac Attack: Makes them loose Stamina faster and take damage overtime.
+Good Sense of the Doctor: You notify your target that you're targeting them, but you run faster. If they get turned, they will get 600 HP, instead of the normal 400 HP.
+The Doctor’s Call: Any Zombie can see you, if they are in the same Zone as you. If a zombie stands close to you, you regenerate their hume shield.
+Waste Not, Want Not: You can revive dead zombies again. Every time a zombie joins the Horde you heal 20 HP (Can overheal).
+Lobotomized Bloodlust: The Horde wants more. The Horde demands their SOUL! Take whatsever left of them and rip it apart.
+Voracity: You can eat a dead corpse by pressing E on it. This forces you in a animation where you cannot move. Every Corpse heals you by 100 HP (Cannot overheal).
 Revive
 Hold [key]

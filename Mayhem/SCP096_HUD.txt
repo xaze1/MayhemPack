@@ -1,7 +1,7 @@
-<color=#ab0000>SCP-096</color> starts docile, and can become enraged when someone sees its face, or harms it. Rage empowers with many abilities, which assist <color=#ab0000>SCP-096</color> in following transgressor’s lights before the fury subsides.
-Try Not to Cry:It's hard to go on… but leaning on something helps you to calm down, either to hide… or to wait for someone to come by.
-Melee Attack:Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and injure humans.
-Charge:Run throught them with Dynamite - You will dash spawning grenades on you and giving you damage reduction from any damage
+<color=#8329F4>Mayhem</color> <color=#ab0000>SCP-096</color> is a fiercy yet fragile <color=#8329F4>Mayhem</color> SCP. While Enraged SCP-096 gets a 70% Damage Reduction (60% Post-Nuke). 096 gains a permanent Movement Boost overtime Post-Nuke (110% Movement Boost Max)
+Try Not to Cry: Holding RMB on a wall/Door will make you hug it. This will double your hume shield regeneration.
+Melee Attack: You can destroy doors and kill Players.
+Charge:<color=#8329F4>Run throught them with Dynamite</color> - This will spawn 5 grenades on you that deal more damage than normally and have a higher range.
 Rage Only
 Docile Only
 Hold <color=#d6c502>[key]</color> to enter Rage.

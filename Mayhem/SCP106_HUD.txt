@@ -1,8 +1,8 @@
 ATTACK COOLDOWN
-Unavailable on Surface.
-Unavailable during elevator travel.
-An unstoppable force capable of easily bypassing any door in the facility.
+You cannot teleport on Surface.
+You cannot teleport in a elevator animation.
+You can walk through doors and gates. You have a KillAura around you and gain Movement Boost depenging on how many people have died. Everytime someone dies gain 1% Movement Boost and increase the Aura Range and Damage.
 Capture:Ensnares a human in close distance, entrapping them within the pocket dimension — a deadly prison dictated by your rule. The joy of capturing new prey replenishes Vigor.
-Stalk:Submerges you into the floor. Move around quickly and invisibly, regenerate, and prepare to strike your prey. Uses Vigor, which regenerates slowly while Stalk is inactive.
-Hunter’s Atlas:Quickly move to a nearby room, at a great Vigor cost. Such movement is instinct to you, having prowled through the Site's corridors for as long as you have.
-Blissful Agony:While Stalking, you can only see injured humans. The greater their agony, the greater the distance you can spot them from. People are traumatized by the looks of you.
+Stalk: Makes you go into the floor. Regenerates your hume shield and is a good way to flee from Micros or Jailbirds.
+Hunter’s Atlas: Hold Tab to open a map of the surrounding Rooms. Click on a position to teleport.
+Blissful Agony: While underground, you can only see hurt and nearby players.

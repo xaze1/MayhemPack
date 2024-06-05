@@ -1,7 +1,7 @@
 DECONTAMINATION PROCESS BEGINS IN
-PLEASE EXIT THE AREA
-!  PLEASE EVACUATE  !
-threat analysis in progress
-PREPARING SECURITY SYSTEMS
-systems ready to commence
-initializing procedure p-b-3
+<color=red>Leave.</color> As long as you can.
+<color=red>!</color>  PLEASE EVACUATE  <color=red>!</color>
+analysing threat data...
+PREPARING FOR <color=#8329F4>MAYHEM</color>
+systems unable to contain chaos
+initializing procedure M.Y.H.M.
