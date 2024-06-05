@@ -1,22 +1,22 @@
 Candies
 <color=red>Ra<color=orange>inb<color=green>ow Can<color=blue>dy</color>
-Grants:
 + 15 HP\n+ 20 AHP\n+ Invigorated Status effect\n+ 5% Damage Reduction(Body)\n (Max Damage Reduction is 12.5%)
+Grants:
 <color=yellow>Yellow Candy</color>
-Grants:
 + Invigorated status effect\n+ Some stamina back
+Grants:
 <color=purple>Purple Candy</color>
-Grants:
 + 20% Damage Reduction(All)
+Grants:
 <color=red>Red Candy</color>
-Grants:
 + 45 HP Regen(Fast)
+Grants:
 <color=green>Green Candy</color>
-Grants:
 + 120 HP Regen(Slow)\n+ Immunity to Negative Status Effects
-<color=blue>Blue Candy</color>
 Grants:
+<color=blue>Blue Candy</color>
 + 30 AHP
+Grants:
 <color=#FF96DE>Pink Candy</color>
 Makes you explode with a grenade.
 (Can Critical Hit)\n(Can be survived with SCP-207?)
