@@ -63,7 +63,7 @@ No
 Do you really believe you can leave?
 Screen Resolution
 Hide IP
-Welcome to <color=#8329F4>Mayhem</color>, {username}.
+Welcome to Mayhem, {username}.
 Credits
 AUTHENTICATING
 Connecting to central servers...

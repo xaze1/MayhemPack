@@ -14,3 +14,5 @@ Docs about Dr. Bright's Facility Mayhem are [here](https://docs.google.com/docum
 
 If you want a special version then DM me on discord: xaze_
 When dming me tell me why you are dming me, otherwise I might not accept it
+
+(Incase you see changes, but not a new release just download the folder/zip instead of downloading the release)
