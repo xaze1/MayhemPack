@@ -1,24 +1,24 @@
 None
-SCP-173
-Class-D
-Spectator
-SCP-106
-NTF Specialist
-SCP-049
-Scientist
-SCP-079
-Chaos Conscript
-SCP-096
-SCP-049-2
-NTF Sergeant
-NTF Captain
-NTF Private
-Tutorial
-Facility Guard
-SCP-939
-Custom Role
-Chaos Rifleman
-Chaos Marauder
-Chaos Repressor
-Overwatch
-Filmmaker
+<color=#9900B8>「</color><color=#FFA200>P</color><color=#F49500>e</color><color=#EA8900>a</color><color=#E07C00>n</color><color=#D67000>u</color><color=#CC6300>t</color><color=#9F00DB>」</color>
+<color=#FFAE00>「</color><color=#FFA500>C</color><color=#F79B00>l</color><color=#F09200>a</color><color=#E98800>s</color><color=#E17F00>s</color><color=#DA7500>-</color><color=#D36C00>D</color><color=#FF6F00>」</color>
+<color=#9900B8>「</color><color=#FFFFFF>S</color><color=#F1F1F1>p</color><color=#E4E4E4>e</color><color=#D6D6D6>c</color><color=#C9C9C9>t</color><color=#BCBCBC>a</color><color=#AEAEAE>t</color><color=#A1A1A1>o</color><color=#949494>r</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#000000>L</color><color=#1E0024>a</color><color=#3C0048>r</color><color=#790091>r</color><color=#9700B6>y</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#00B3FF>N</color><color=#00A5FF>T</color><color=#0097FF>F</color> <color=#0089FF>S</color><color=#007BFF>p</color><color=#006EFF>e</color><color=#0060FF>c</color><color=#0052FF>i</color><color=#0044FF>a</color><color=#0037FF>l</color><color=#0029FF>i</color><color=#001BFF>s</color><color=#000DFF>t</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#0AADFF>D</color><color=#32BAFF>o</color><color=#5BC8FF>c</color><color=#84D5FF>t</color><color=#ADE3FF>o</color><color=#D6F1FF>r</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#FBFF00>S</color><color=#F7F901>c</color><color=#F3F403>i</color><color=#EFEF04>e</color><color=#EBEA06>n</color><color=#E7E507>t</color><color=#E3E009>i</color><color=#DFDB0A>s</color><color=#DBD60C>t</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#084cfb>W</color><color=#1d61fb>i</color><color=#3176fc>n</color><color=#468bfc>d</color><color=#5ba0fc>o</color><color=#6fb4fc>w</color><color=#84c9fd>s</color> <color=#98defd>9</color><color=#adf3fd>5</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#04FF00>C</color><color=#06F403>I</color> <color=#0CDE0A>C</color><color=#0FD40E>o</color><color=#12C911>n</color><color=#15BE15>s</color><color=#17B319>c</color><color=#1AA91C>r</color><color=#1D9E20>i</color><color=#209323>p</color><color=#238827>t</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#FF0000>D</color><color=#F70000>a</color> <color=#E80000>S</color><color=#E10000>h</color><color=#D90000>y</color> <color=#CA0000>D</color><color=#C30000>u</color><color=#BB0000>d</color><color=#B40000>e</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#FF2929>Z</color><color=#F22323>o</color><color=#E51E1E>m</color><color=#D81919>b</color><color=#CC1414>i</color><color=#BF0F0F>e</color><color=#B20A0A>!</color><color=#A50505>!</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#00B3FF>N</color><color=#00A4FF>T</color><color=#0095FF>F</color> <color=#0077FF>S</color><color=#0068FF>e</color><color=#0059FF>r</color><color=#004AFF>g</color><color=#003BFF>e</color><color=#002CFF>a</color><color=#001DFF>n</color><color=#000EFF>t</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#1B89B8>N</color><color=#187CB8>T</color><color=#1670B9>F</color> <color=#1157BB>C</color><color=#0E4ABC>a</color><color=#0C3EBD>p</color><color=#0931BE>t</color><color=#0725BF>a</color><color=#0418C0>i</color><color=#020CC1>n</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#4DC9FF>N</color><color=#49C5FF>T</color><color=#45C1FF>F</color> <color=#3EBAFF>P</color><color=#3AB6FF>r</color><color=#36B2FF>i</color><color=#32AEFF>v</color><color=#2FABFF>a</color><color=#2BA7FF>t</color><color=#27A3FF>e</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#E000D9>P</color><color=#DC00DF>u</color><color=#D800E5>p</color><color=#D400EC>p</color><color=#D000F2>e</color><color=#CC00F8>t</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#C4C4C4>G</color><color=#B8B8B8>u</color><color=#ADADAD>a</color><color=#A1A1A1>r</color><color=#969696>d</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#9900B8>S</color><color=#9100B4>C</color><color=#8A00B1>P</color><color=#8300AE>-</color><color=#7C00AA>9</color><color=#7500A7>3</color><color=#6E00A4>9</color><color=#9F00DB>」</color>
+-
+<color=#9900B8>「</color><color=#04FF00>C</color><color=#07F303>I</color> <color=#0DDB0B>R</color><color=#10D00F>i</color><color=#13C413>f</color><color=#16B817>l</color><color=#19AC1B>e</color><color=#1CA11F>m</color><color=#1F9523>a</color><color=#228927>n</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#04FF00>C</color><color=#07F303>I</color> <color=#0DDB0B>M</color><color=#10D00F>a</color><color=#13C413>r</color><color=#16B817>a</color><color=#19AC1B>u</color><color=#1CA11F>d</color><color=#1F9523>e</color><color=#228927>r</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#04FF00>C</color><color=#06F403>I</color> <color=#0CDE0A>R</color><color=#0FD40E>e</color><color=#12C911>p</color><color=#15BE15>r</color><color=#17B319>e</color><color=#1AA91C>s</color><color=#1D9E20>s</color><color=#209323>o</color><color=#238827>r</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color><color=#A8F9FF>O</color><color=#A0F9FF>v</color><color=#98F9FF>e</color><color=#90FAFF>r</color><color=#88FAFF>w</color><color=#80FAFF>a</color><color=#78FBFF>t</color><color=#70FBFF>c</color><color=#68FBFF>h</color><color=#9F00DB>」</color>
+<color=#9900B8>「</color>Filmmaker<color=#9F00DB>」</color>
