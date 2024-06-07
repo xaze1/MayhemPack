@@ -39,7 +39,7 @@
 43~SCP-2176~Your very own Ghostlight! Caution, very fragile...
 44~SCP-244-A~An ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
 45~SCP-244-B~An ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
-46~SCP-1853~Improves weapon manipulation skills.
+46~SCP-1853~50% increase in item Pickup\n20% decrease in weapon inaccuracy(ADS and Hip)\n20% decrease in weapon recoil\n35% reduction in reload/unload time\n20% reduction in ADS enter/exit time\n20% reduction in use times of medical items, grenades, SCP Items and candy\nRemoves Speed penalties
 47~3-X Particle Disruptor
 48~COM-45
 49~SCP-1576~Communicate with the dead.
