@@ -12,11 +12,11 @@
 11~<color=black>O5-level Keycard</color>
 12~📶 Radio 📶~<size=13>Short Range - Current Zone\nMedium Range - Current Zone + Next Zone(s)\nLong Range - Current Zone + Two next Zones\nUltra Range - Every Zone</size>
 13~COM-15
-14~<color=#ff28e>+</color>First Aid Kit<color=#ff28e>+</color>~<color=#ff28e>Heal Amount: 65 HP</color>\nUsage Time: 3s
+14~<color=#ff2f8e>+</color>First Aid Kit<color=#ff2f8e>+</color>~<color=#ff2f8e>Heal Amount: 65 HP</color>\nUsage Time: 3s
 15~Flashlight~Let there be light!
 16~Micro H.I.D.~Mobile high-intensity electrical discharge thrower.
-17~<color=#ff28e>+</color>SCP-500<color=#ff28e>+</color>~Object Class: <color=#66df4e>Safe</color>\n<color=#ff28e>Heal Amount: 100 HP</color>\nUsage Time: 1s\nAdditional Info:<size=10>\n- Painkiller Regeneration after usage(100 HP)</size>
-18~SCP-207~Object Class: <color=#66df4e>Safe</color>\n<color=#ff28e>HP Drain:<size=20>\n1x 1.5 HP/s \t2x 2.5 HP/s\n3x 4 HP/s</size></color>\n<color=#6a77de>Speed:\n<size=20>1x 10% Increase\n2x 20% Incrase\n3x 40% Increase</size></color>
+17~<color=#ff2f8e>+</color>SCP-500<color=#ff2f8e>+</color>~Object Class: <color=#66df4e>Safe</color>\n<color=#ff2f8e>Heal Amount: 100 HP</color>\nUsage Time: 1s\nAdditional Info:<size=10>\n- Painkiller Regeneration after usage(100 HP)</size>
+18~SCP-207~Object Class: <color=#66df4e>Safe</color>\n<color=#ff2f8e>HP Drain:<size=20>\n1x 1.5 HP/s \t2x 2.5 HP/s\n3x 4 HP/s</size></color>\n<color=#6a77de>Speed:\n<size=20>1x 10% Increase\n2x 20% Incrase\n3x 40% Increase</size></color>
 20~MTF-E11-SR
 21~Crossvec
 23~FSP-9
@@ -26,8 +26,8 @@
 30~COM-18
 31~SCP-018~Superball able to bounce with extreme efficiency.
 32~SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
-33~<color=#ff28e>+</color>Adrenaline<color=#ff28e>+</color>~<color=#ff28e>Heal Amount: 45 AHP</color>\nUsage Time: 2s\nAdditional Info:<size=10>\n- Invigorated (5s)\n-Stamina Replenished</size>
-34~<color=#ff28e>+</color>Painkillers<color=#ff28e>+</color>~<color=#ff28e>Heal Amount: 50 HP(RegenOvertime)\n</color>Usage Time: 1s
+33~<color=#ff2f8e>+</color>Adrenaline<color=#ff2f8e>+</color>~<color=#ff2f8e>Heal Amount: 45 AHP</color>\nUsage Time: 2s\nAdditional Info:<size=10>\n- Invigorated (5s)\n-Stamina Replenished</size>
+34~<color=#ff2f8e>+</color>Painkillers<color=#ff2f8e>+</color>~<color=#ff2f8e>Heal Amount: 50 HP(RegenOvertime)\n</color>Usage Time: 1s
 35~Coin~You're not sure why you'd want to carry this around...
 36~Light Armor
 37~Combat Armor
@@ -43,8 +43,8 @@
 47~3-X Particle Disruptor
 48~COM-45
 49~SCP-1576~Communicate with the dead.
-50~Jailbird~<size=20><color=#ff28e>Damage: 50 HP\nCharge Damage: 200\nCharge Speed: 17 m/s</color>\n<color=#ff9e4c>Charges: 5</color>\n4x Damage to SCP-049-2</size>
-51~<color=#b11cc4>Anti-207</color>~Object Class: <color=#66df4e>Safe</color>\n<color=#ff28e>HP Gain:\n<size=20>1x 0.1 HP/s\t2x 0.15 HP/s\n3x 0.25 HP/s\t4x 0.4 HP/s</color><color=#6a77de>\nSpeed:\n1x 4.87 m/s\2x 4.6 m/s\n3x 4.32 m/s\t4x 4.03 m/s</size></color>
+50~Jailbird~<size=20><color=#ff2f8e>Damage: 50 HP\nCharge Damage: 200\nCharge Speed: 17 m/s</color>\n<color=#ff9e4c>Charges: 5</color>\n4x Damage to SCP-049-2</size>
+51~<color=#b11cc4>Anti-207</color>~Object Class: <color=#66df4e>Safe</color>\n<color=#ff2f8e>HP Gain:\n<size=20>1x 0.1 HP/s\t2x 0.15 HP/s\n3x 0.25 HP/s\t4x 0.4 HP/s</color><color=#6a77de>\nSpeed:\n1x 4.87 m/s\2x 4.6 m/s\n3x 4.32 m/s\t4x 4.03 m/s</size></color>
 52~FR-MG-0
 53~A7
 54~Lantern~A classic oil lantern, inscribed with the name "Daniel".
