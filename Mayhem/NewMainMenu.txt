@@ -1,21 +1,21 @@
-<color=#00A9FF>📰</color> <color=#00A9FF>I</color><color=#00B0FE>n</color><color=#00B8FE>f</color><color=#00C0FD>o</color><color=#00C8FD>r</color><color=#00D0FD>m</color><color=#00D7FC>a</color><color=#00DFFC>t</color><color=#00E7FC>i</color><color=#00EFFB>o</color><color=#00F7FB>n</color>
-<color=#7300FF>M</color><color=#8A00D4>a</color><color=#A100AA>y</color><color=#B9007F>h</color><color=#D00055>e</color><color=#E7002A>m</color>
-<color=#CFCFCF>S</color><color=#B5B5B5>e</color><color=#9B9B9B>t</color><color=#818181>t</color><color=#676767>i</color><color=#4D4D4D>n</color><color=#333333>g</color><color=#191919>s</color>
-<color=red>✖️ | No</color>
+<color=#FF2F8E>I</color><color=#FF3988>n</color><color=#FF4382>f</color><color=#FF4D7C>o</color><color=#FF5776>r</color><color=#FF6170>m</color><color=#FF6B6A>a</color><color=#FF7564>t</color><color=#FF7F5E>i</color><color=#FF8958>o</color><color=#FF9352>n</color>
+<color=#9803CE>M</color><color=#A90AC3>a</color><color=#BA11B8>y</color><color=#CB18AE>h</color><color=#DC20A3>e</color><color=#ED2798>m</color>
+<color=#FFD600>S</color><color=#EBD709>e</color><color=#D8D813>t</color><color=#C5D91D>t</color><color=#B2DA27>i</color><color=#9FDB30>n</color><color=#8CDC3A>g</color><color=#79DD44>s</color>
+<color=#FF2F8E>✖️ | No</color>
 Social Media
-<color=#77B4EE>✳️</color> <color=#77B4EE>I</color><color=#689DF0>n</color><color=#5987F2>t</color><color=#4A70F4>e</color><color=#3B5AF6>r</color><color=#2C43F8>n</color><color=#1D2DFA>e</color><color=#0E16FC>t</color>
-<color=#FF4242>★</color> <color=#FF4242>F</color><color=#FA3B3B>a</color><color=#F53434>v</color><color=#F12E2E>o</color><color=#EC2727>u</color><color=#E82020>r</color><color=#E31A1A>i</color><color=#DE1313>t</color><color=#DA0D0D>e</color><color=#D50606>s</color>
-<color=#2CC502>✔️</color> <color=#2CC502>O</color><color=#46C801>f</color><color=#60CB01>f</color><color=#7BCE01>i</color><color=#95D101>c</color><color=#AFD400>i</color><color=#CAD700>a</color><color=#E4DA00>l</color>
-<color=#001EFF>➡️</color> <color=#001EFF>H</color><color=#153EDA>i</color><color=#2B5EB6>s</color><color=#417E91>t</color><color=#579E6D>o</color><color=#6DBE48>r</color><color=#83DE24>y</color>
-<color=#FF0ABE>❤️</color> <color=#FF0ABE>F</color><color=#FF08A2>r</color><color=#FF0787>i</color><color=#FF056C>e</color><color=#FF0451>n</color><color=#FF0236>d</color><color=#FF011B>s</color>
-<color=#93D7BD>🔎</color> <color=#93D7BD>S</color><color=#93C8B6>e</color><color=#93BAAF>a</color><color=#94ACA9>r</color><color=#949DA2>c</color><color=#958F9B>h</color> <color=#95738E>S</color><color=#966487>e</color><color=#965681>r</color><color=#97487A>v</color><color=#973973>e</color><color=#982B6D>r</color><color=#981D66>s</color>
+<color=#6A77DE>✳</color> <color=#877EC0>I</color><color=#9682B2>n</color><color=#A586A3>t</color><color=#B48A95>e</color><color=#C38E86>r</color><color=#D29277>n</color><color=#E19669>e</color><color=#F09A5A>t</color>
+<color=#66DF4E>★</color> <color=#6EBA63>F</color><color=#72A76E>a</color><color=#769578>v</color><color=#7A8383>o</color><color=#7F708E>u</color><color=#835E98>r</color><color=#874CA3>i</color><color=#8B39AD>t</color><color=#8F27B8>e</color><color=#9315C3>s</color>
+<color=#FF9E4C>✔</color> <color=#EA7F66>O</color><color=#E06F73>f</color><color=#D56080>f</color><color=#CB508D>i</color><color=#C1419A>c</color><color=#B631A7>i</color><color=#AC22B4>a</color><color=#A212C1>l</color>
+<color=#6E77DE>➡</color> <color=#8E67CC>H</color><color=#9E5FC3>i</color><color=#AE57BA>s</color><color=#BE4FB1>t</color><color=#CE47A8>o</color><color=#DE3F9F>r</color><color=#EE3796>y</color>
+<color=#FF9E4C>❤</color> <color=#FF855A>F</color><color=#FF7861>r</color><color=#FF6C69>i</color><color=#FF6070>e</color><color=#FF5477>n</color><color=#FF477F>d</color><color=#FF3B86>s</color>
+<color=#FFD600>S</color><color=#F4CF0F>e</color><color=#E9C81F>a</color><color=#DFC12F>r</color><color=#D4BA3F>c</color><color=#C9B44F>h</color> <color=#B4A66F>S</color><color=#A99F7E>e</color><color=#9F988E>r</color><color=#94929E>v</color><color=#898BAE>e</color><color=#7F84BE>r</color><color=#747DCE>s</color>
 Create Server
-<color=#FF8B1F>R</color><color=#F07928>e</color><color=#E16731>-</color><color=#D3553A>J</color><color=#C44444>o</color><color=#B6324D>i</color><color=#A72056>n</color>
+<color=#FF2F8E>R</color><color=#E93999>e</color><color=#D443A4>-</color><color=#BF4DB0>J</color><color=#A958BB>o</color><color=#9462C7>i</color><color=#7F6CD2>n</color>
 Direct Connect
-<color=#B80A0A>R</color><color=#AB210F>e</color><color=#9E3815>f</color><color=#91501B>r</color><color=#846720>e</color><color=#777F26>s</color><color=#6A962C>h</color>
-<color=#A1A1A1>H</color><color=#969696>i</color><color=#8C8C8C>d</color><color=#828282>e</color> <color=#6E6E6E>E</color><color=#646464>m</color><color=#5A5A5A>p</color><color=#505050>t</color><color=#464646>y</color> <color=#323232>G</color><color=#282828>a</color><color=#1E1E1E>m</color><color=#141414>e</color><color=#0A0A0A>s</color>
-<color=#FF0000>H</color><color=#FF1111>i</color><color=#FF2222>d</color><color=#FF3333>e</color> <color=#FF5555>F</color><color=#FF6666>u</color><color=#FF7777>l</color><color=#FF8888>l</color> <color=#FFAAAA>G</color><color=#FFBBBB>a</color><color=#FFCCCC>m</color><color=#FFDDDD>e</color><color=#FFEEEE>s</color>
-<color=#FFFFFF>N</color><color=#EDEDF0>o</color> <color=#CBC9D3>W</color><color=#BAB7C5>h</color><color=#A9A5B7>i</color><color=#9893A8>t</color><color=#86819A>e</color><color=#756F8C>l</color><color=#645D7D>i</color><color=#534B6F>s</color><color=#423961>t</color>
+<color=#FFD600>R</color><color=#FFCE0A>e</color><color=#FFC615>f</color><color=#FFBE20>r</color><color=#FFB62B>e</color><color=#FFAE36>s</color><color=#FFA641>h</color>
+<color=#66DF4E>H</color><color=#66D857>i</color><color=#66D260>d</color><color=#66CB69>e</color> <color=#67BE7B>E</color><color=#67B884>m</color><color=#67B18D>p</color><color=#68AB96>t</color><color=#68A49F>y</color> <color=#6897B1>G</color><color=#6991BA>a</color><color=#698AC3>m</color><color=#6984CC>e</color><color=#697DD5>s</color>
+<color=#9803CE>H</color><color=#940ACF>i</color><color=#9112D0>d</color><color=#8E1AD1>e</color> <color=#8829D3>F</color><color=#8531D4>u</color><color=#8239D5>l</color><color=#7F40D6>l</color> <color=#7950D8>G</color><color=#7658D9>a</color><color=#735FDA>m</color><color=#7067DB>e</color><color=#6D6FDC>s</color>
+<color=#9803CE>N</color><color=#A014BC>o</color> <color=#B1379A>W</color><color=#BA4989>h</color><color=#C25A78>i</color><color=#CB6C67>t</color><color=#D47E55>e</color><color=#DC8F44>l</color><color=#E5A133>i</color><color=#EDB222>s</color><color=#F6C411>t</color>
 Video
 Audio
 Controls
@@ -67,10 +67,10 @@ Welcome to Mayhem, {username}.
 Credits
 AUTHENTICATING
 Connecting to central servers...
-<color=green>Connection established</color>
-<color=red>Connection failure (Check console for details)</color>
-<color=red>Steam authentication failure (Check console for details)</color>
-<color=red>Discord authentication failure (Check console for details)</color>
+<color=#66df4e>Connection established</color>
+<color=#ff2f8e>Connection failure (Check console for details)</color>
+<color=#ff2f8e>Steam authentication failure (Check console for details)</color>
+<color=#ff2f8e>Discord authentication failure (Check console for details)</color>
 Disabled
 Seconds
 Ragdoll Cleanup Time
