@@ -48,3 +48,9 @@ When dming me tell me why you are dming me, otherwise I might not accept it
 
 ### SCPs
 <img src="https://i.imgur.com/70G6vQh.png">
+
+## Main Menu
+<img src="https://i.imgur.com/TYMT90v.png">
+
+### Servers Tab
+<img src="https://i.imgur.com/mhtZTVz.png">
