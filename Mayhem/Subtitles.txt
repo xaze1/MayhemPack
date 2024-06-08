@@ -1,28 +1,28 @@
-[<color=green><b>🟦</b></color>] <color=#70C3FF> Tactical Nine-Tailed-Fox Unit Epsilon-11</color> <b>|</b> <color=#0049F1>[designation]</color> <b>|</b> All remaining Personnel are advised to seek shelter in the nearest breachshelter until the facility has been reverted back from <color=#8329F4>Mayhem</color><split>
-Awaiting re-containment of: <color=#DC143C><b>[count] <color=#8329F4>Mayhem</color><color=#DC143C> SCP subjects</b></color>.
-[<color=orange><b>⚠</b></color>] Awaiting re-containment of: <color=#DC143C><b>1 <color=#8329F4>Mayhem</color> <color=#DC143C>SCP subject</b></color>.
+Containment[<color=#66df4e><b>🟦</b></color>] <color=#70C3FF> Tactical Nine-Tailed-Fox Unit Epsilon-11</color> <b>|</b> <color=#0049F1>[designation]</color> <b>|</b> All remaining Personnel are advised to seek shelter in the nearest breachshelter until the facility has been reverted back from <color=#9803ce>Mayhem</color><split>
+Awaiting re-containment of: <color=#DC143C><b>[count] <color=#9803ce>Mayhem</color><color=#ff2f8e> SCP subjects</b></color>.
+[<color=#ff9e4c><b>⚠</b></color>] Awaiting re-containment of: <color=#DC143C><b>1 <color=#8329F4>Mayhem</color> <color=#DC143C>SCP subject</b></color>.
 <color=#FFFF00>Substantial threat to safety remains</color> -- <color=#F00><b>exercise caution</b></color>.
-terminated <b>|</b> Termination cause: <color=#4228A1><b>Unspecified</b></color>.
-terminated by: <color=#DC143C><b>SCP-[scp]</b></color>.
-terminated by: <color=#00A6FF><b>Automatic Security System</b></color>.
-terminated by: <color=#F00><b>Alpha Warhead</b></color>.
-contained by: <color=#FFFF7C><b>Science Personnel</b></color>.
-contained by: <color=#FF8E00><b>Class-D Personnel</b></color>.
-contained by: <color=#007519><b>Chaos Insurgency</b></color>.
-[<b>ⅰ</b>] <color=#DC143C><b>SCP-[scp]</b></color>
-contained <b>|</b> <color=#D2D4C1><b>Containment unit unknown</b></color>.
-contained <b>|</b> <color=#0049F1>Containment Unit [designation]</color>.
+terminated <b>|</b> Termination cause: <color=#6a77de><b>Unspecified</b></color>.
+terminated by: <color=#ff2f8e><b>SCP-[scp]</b></color>.
+terminated by: <color=#6a77de><b>Automatic Security System</b></color>.
+terminated by: <color=#ff2f8e><b>Alpha Warhead</b></color>.
+contained by: <color=#ffd600><b>Science Personnel</b></color>.
+contained by: <color=#ff9e4c><b>Class-D Personnel</b></color>.
+contained by: <color=#66df4e><b>Chaos Insurgency</b></color>.
+[<b>ⅰ</b>] <color=#ff2f8e><b>SCP-[scp]</b></color>
+contained <b>|</b> <color=#6a77de><b>Containment unit unknown</b></color>.
+contained <b>|</b> <color=#6a77de>Containment Unit [designation]</color>.
 <b>|</b> lost in <b>Decontamination Sequence</b>.
-[<color=green><b>✔</b></color>] <color=#16DC00>[current]</color>/<color=#F00>[max]</color> generators activated.
-<split>[<color=yellow>⚠</color>] All generators have been successfully engaged. The Puppet takes +105% damage.
-[<b><color=yellow>⚡</color></b>] Overcharge in <color=#2EFF00>3...</color> <color=#FFF821>2...</color> <color=#F00>1...</color>
-[<b><color=yellow>⚡</color></b>] Facility is back in operational mode.
-[<color=green><b>ⅰ</b></color>] <color=#FFFF00>Attention</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=green><b>T-15</b> minutes</color>.
-[<color=orange><b>⚠</b></color>] <color=#DC143C>Danger</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=yellow><b>T-[time]</b> minutes</color>.
-[<color=#ff4400><b>⚠</b></color>] <color=#DC143C>Danger</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#DC143C><b>T-1</b> minute</color>.
-[<color=red><b>⚠</b></color>] <color=#DC143C>Danger</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#DC143C><b>T-30</b> seconds</color>.<split>All checkpoint doors have been permanently opened.<split><color=red>Please evacuate immediately.</color>
-[<color=green><b>ⅰ</b></color>] <color=#E9D3FF>Light Containment Zone</color> is <color=#F00><b>Locked Down</b></color> and ready for decontamination.<split>The removal of organic substances has now begun.
-[<color=red><b>⚠</b></color>] ALPHA WARHEAD SEQUENCE ENGAGED</color> <b>|</b> <color=#F5650A>DETONATION IN <color=red><b>[time]</b></color> SECONDS.
-[<color=green><b>ⅰ</b></color>] DETONATION CANCELLED.<split>RESTARTING SYSTEMS...
-[<color=orange><b>⚠</b></color>] DETONATION RESUMED <b>|</b> ETA:<color=#DC143C><b> T-[time]</b></color> SECONDS.
-terminated by: <color=blue>Marshmallow Man</color>.
+[<color=#66df4e><b>✔</b></color>] <color=#ffd600>[current]</color>/<color=#6a77de>[max]</color> generators activated.
+<split>[<color=#ffd600>⚠</color>] All generators have been successfully engaged. The Puppet takes +105% damage.
+[<b><color=#ffd600>⚡</color></b>] Overcharge in <color=#2EFF00>3...</color> <color=#FFF821>2...</color> <color=#F00>1...</color>
+[<b><color=#ffd600>⚡</color></b>] Facility is back in operational mode.
+[<color=#66df4e><b>ⅰ</b></color>] <color=#FFFF00>Attention</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#66df4e><b>T-15</b> minutes</color>.
+[<color=#ff9e4c><b>⚠</b></color>] <color=#ff2f8e>Danger</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#ffd600><b>T-[time]</b> minutes</color>.
+[<color=#ff4400><b>⚠</b></color>] <color=#ff2f8e>Danger</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#ff2f8e><b>T-1</b> minute</color>.
+[<color=#ff2f8e><b>⚠</b></color>] <color=#ff2f8e>Danger</color> - <color=#E9D3FF>Light Containment Zone</color> <color=#7cf58d>decontamination</color> in <color=#ff2f8e><b>T-30</b> seconds</color>.<split>All checkpoint doors have been permanently opened.<split><color=#ff2f8e>Please evacuate immediately.</color>
+[<color=#66df4e><b>ⅰ</b></color>] <color=#E9D3FF>Light Containment Zone</color> is <color=#F00><b>Locked Down</b></color> and ready for decontamination.<split>The removal of organic substances has now begun.
+[<color=#ff2f8e><b>⚠</b></color>] ALPHA WARHEAD SEQUENCE ENGAGED</color> <b>|</b> <color=#ff2f8e>DETONATION IN <color=#ff2f8e><b>[time]</b></color> SECONDS.
+[<color=#66df4e><b>ⅰ</b></color>] DETONATION CANCELLED.<split>RESTARTING SYSTEMS...
+[<color=#ff9e4c><b>⚠</b></color>] DETONATION RESUMED <b>|</b> ETA:<color=#ff2f8e><b> T-[time]</b></color> SECONDS.
+terminated by: <color=#6a77de>Marshmallow Man</color>.

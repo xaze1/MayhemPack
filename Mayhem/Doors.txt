@@ -1,10 +1,10 @@
-<size=40><color=green>-✅-</color></size>
-<size=40><color=#07A2FF>-🚫-</color></size>
-<size=40><color=orange>-⬅➡-</color></size>
-<size=40><color=red>-❌-</color></size>
-<size=40><color=red>-❌-</color></size>
-<size=40><color=red>-❎-</color></size>
-<size=40><color=green>-✔-</color></size>
-<size=40><color=#07A2FF>-🎫-</color></size>
-<color=orange>PLEASE PASS</color>
-<size=40><color=orange>-➡⬅-</color></size>
+<size=40><color=#66df4e>-✅-</color></size>
+<size=40><color=#6a77de>-🚫-</color></size>
+<size=40><color=#ff9e4c>-⬅➡-</color></size>
+<size=40><color=#ff2f8e>-❌-</color></size>
+<size=40><color=#ff2f8e>-❌-</color></size>
+<size=40><color=#ff2f8e>-❎-</color></size>
+<size=40><color=#66df4e>-✔-</color></size>
+<size=40><color=#6a77de>-🎫-</color></size>
+<color=#ff9e4c>PLEASE PASS</color>
+<size=40><color=#ff9e4c>-➡⬅-</color></size>

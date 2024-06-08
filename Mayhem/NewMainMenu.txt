@@ -1,21 +1,21 @@
 <color=#FF2F8E>I</color><color=#FF3988>n</color><color=#FF4382>f</color><color=#FF4D7C>o</color><color=#FF5776>r</color><color=#FF6170>m</color><color=#FF6B6A>a</color><color=#FF7564>t</color><color=#FF7F5E>i</color><color=#FF8958>o</color><color=#FF9352>n</color>
 <color=#9803CE>M</color><color=#A90AC3>a</color><color=#BA11B8>y</color><color=#CB18AE>h</color><color=#DC20A3>e</color><color=#ED2798>m</color>
-<color=#FFD600>S</color><color=#EBD709>e</color><color=#D8D813>t</color><color=#C5D91D>t</color><color=#B2DA27>i</color><color=#9FDB30>n</color><color=#8CDC3A>g</color><color=#79DD44>s</color>
+<color=#FF2F8E>S</color><color=#FF3C85>e</color><color=#FF4A7D>t</color><color=#FF5875>t</color><color=#FF666D>i</color><color=#FF7464>n</color><color=#FF825C>g</color><color=#FF9054>s</color>
 <color=#FF2F8E>✖️ | No</color>
 Social Media
 <color=#6A77DE>✳</color> <color=#877EC0>I</color><color=#9682B2>n</color><color=#A586A3>t</color><color=#B48A95>e</color><color=#C38E86>r</color><color=#D29277>n</color><color=#E19669>e</color><color=#F09A5A>t</color>
-<color=#66DF4E>★</color> <color=#6EBA63>F</color><color=#72A76E>a</color><color=#769578>v</color><color=#7A8383>o</color><color=#7F708E>u</color><color=#835E98>r</color><color=#874CA3>i</color><color=#8B39AD>t</color><color=#8F27B8>e</color><color=#9315C3>s</color>
-<color=#FF9E4C>✔</color> <color=#EA7F66>O</color><color=#E06F73>f</color><color=#D56080>f</color><color=#CB508D>i</color><color=#C1419A>c</color><color=#B631A7>i</color><color=#AC22B4>a</color><color=#A212C1>l</color>
-<color=#6E77DE>➡</color> <color=#8E67CC>H</color><color=#9E5FC3>i</color><color=#AE57BA>s</color><color=#BE4FB1>t</color><color=#CE47A8>o</color><color=#DE3F9F>r</color><color=#EE3796>y</color>
-<color=#FF9E4C>❤</color> <color=#FF855A>F</color><color=#FF7861>r</color><color=#FF6C69>i</color><color=#FF6070>e</color><color=#FF5477>n</color><color=#FF477F>d</color><color=#FF3B86>s</color>
-<color=#FFD600>S</color><color=#F4CF0F>e</color><color=#E9C81F>a</color><color=#DFC12F>r</color><color=#D4BA3F>c</color><color=#C9B44F>h</color> <color=#B4A66F>S</color><color=#A99F7E>e</color><color=#9F988E>r</color><color=#94929E>v</color><color=#898BAE>e</color><color=#7F84BE>r</color><color=#747DCE>s</color>
-Create Server
+<color=#6A77DE>★</color> <color=#827DC5>F</color><color=#8F80B9>a</color><color=#9B84AD>v</color><color=#A887A1>o</color><color=#B48A95>u</color><color=#C08D88>r</color><color=#CD917C>i</color><color=#D99470>t</color><color=#E69764>e</color><color=#F29A58>s</color>
+<color=#6A77DE>✔</color> <color=#877EC0>O</color><color=#9682B2>f</color><color=#A586A3>f</color><color=#B48A95>i</color><color=#C38E86>c</color><color=#D29277>i</color><color=#E19669>a</color><color=#F09A5A>l</color>
+<color=#6A77DE>➡</color> <color=#8B7FBD>H</color><color=#9B84AD>i</color><color=#AC889D>s</color><color=#BC8C8C>t</color><color=#CD917C>o</color><color=#DD956C>r</color><color=#EE995C>y</color>
+<color=#6A77DE>❤</color> <color=#8B7FBD>F</color><color=#9B84AD>r</color><color=#AC889D>i</color><color=#BC8C8C>e</color><color=#CD917C>n</color><color=#DD956C>d</color><color=#EE995C>s</color>
+<color=#FF2F8E>S</color><color=#F43493>e</color><color=#E93999>a</color><color=#DF3E9F>r</color><color=#D443A4>c</color><color=#C948AA>h</color> <color=#B453B6>S</color><color=#A958BB>e</color><color=#9F5DC1>r</color><color=#9462C7>v</color><color=#8967CC>e</color><color=#7F6CD2>r</color><color=#7471D8>s</color>
+<color=#FF2F8E>C</color><color=#F33494>r</color><color=#E83A9A>e</color><color=#DC3FA0>a</color><color=#D145A6>t</color><color=#C54AAC>e</color> <color=#AE55B9>S</color><color=#A35BBF>e</color><color=#9760C5>r</color><color=#8C66CB>v</color><color=#806BD1>e</color><color=#7571D7>r</color>
 <color=#FF2F8E>R</color><color=#E93999>e</color><color=#D443A4>-</color><color=#BF4DB0>J</color><color=#A958BB>o</color><color=#9462C7>i</color><color=#7F6CD2>n</color>
-Direct Connect
-<color=#FFD600>R</color><color=#FFCE0A>e</color><color=#FFC615>f</color><color=#FFBE20>r</color><color=#FFB62B>e</color><color=#FFAE36>s</color><color=#FFA641>h</color>
-<color=#66DF4E>H</color><color=#66D857>i</color><color=#66D260>d</color><color=#66CB69>e</color> <color=#67BE7B>E</color><color=#67B884>m</color><color=#67B18D>p</color><color=#68AB96>t</color><color=#68A49F>y</color> <color=#6897B1>G</color><color=#6991BA>a</color><color=#698AC3>m</color><color=#6984CC>e</color><color=#697DD5>s</color>
-<color=#9803CE>H</color><color=#940ACF>i</color><color=#9112D0>d</color><color=#8E1AD1>e</color> <color=#8829D3>F</color><color=#8531D4>u</color><color=#8239D5>l</color><color=#7F40D6>l</color> <color=#7950D8>G</color><color=#7658D9>a</color><color=#735FDA>m</color><color=#7067DB>e</color><color=#6D6FDC>s</color>
-<color=#9803CE>N</color><color=#A014BC>o</color> <color=#B1379A>W</color><color=#BA4989>h</color><color=#C25A78>i</color><color=#CB6C67>t</color><color=#D47E55>e</color><color=#DC8F44>l</color><color=#E5A133>i</color><color=#EDB222>s</color><color=#F6C411>t</color>
+<color=#FF2F8E>D</color><color=#F43493>i</color><color=#E93999>r</color><color=#DF3E9F>e</color><color=#D443A4>c</color><color=#C948AA>t</color> <color=#B453B6>C</color><color=#A958BB>o</color><color=#9F5DC1>n</color><color=#9462C7>n</color><color=#8967CC>e</color><color=#7F6CD2>c</color><color=#7471D8>t</color>
+<color=#FF2F8E>R</color><color=#E93999>e</color><color=#D443A4>f</color><color=#BF4DB0>r</color><color=#A958BB>e</color><color=#9462C7>s</color><color=#7F6CD2>h</color>
+<color=#FF2F8E>H</color><color=#F53393>i</color><color=#EC3898>d</color><color=#E33C9D>e</color> <color=#D045A7>E</color><color=#C74AAC>m</color><color=#BD4EB1>p</color><color=#B453B6>t</color><color=#AB57BB>y</color> <color=#9860C5>G</color><color=#8F65CA>a</color><color=#8569CF>m</color><color=#7C6ED4>e</color><color=#7372D9>s</color>
+<color=#FF2F8E>H</color><color=#F53393>i</color><color=#EB3898>d</color><color=#E13D9E>e</color> <color=#CD46A8>F</color><color=#C34BAE>u</color><color=#B950B3>l</color><color=#AF55B8>l</color> <color=#9B5EC3>G</color><color=#9163C8>a</color><color=#8768CE>m</color><color=#7D6DD3>e</color><color=#7372D8>s</color>
+<color=#FF2F8E>N</color><color=#F23594>o</color> <color=#D941A1>W</color><color=#CD47A8>h</color><color=#C04DAF>i</color><color=#B453B5>t</color><color=#A859BC>e</color><color=#9B5FC3>l</color><color=#8F65C9>i</color><color=#826BD0>s</color><color=#7671D7>t</color>
 Video
 Audio
 Controls
@@ -56,15 +56,15 @@ SCP-079 - Post-Processing
 Language
 Main Menu
 Connect
-Yes
+<color=#66df4e>Yes</color>
 This change will require a reload.\nReload the menu now?
-Yes
-No
+<color=#66df4e>Yes</color>
+<color=#FF2F8E>No</color>
 Do you really believe you can leave?
 Screen Resolution
 Hide IP
 Welcome to Mayhem, {username}.
-Credits
+<color=#FF2F8E>C</color><color=#FF3E84>r</color><color=#FF4E7B>e</color><color=#FF5E71>d</color><color=#FF6E68>i</color><color=#FF7E5E>t</color><color=#FF8E55>s</color>
 AUTHENTICATING
 Connecting to central servers...
 <color=#66df4e>Connection established</color>
@@ -91,4 +91,4 @@ Ambient Occlusion
 Volumetric Lights
 Bloom
 Toggle Subtitles
-The Unknown
+<color=#FF2F8E>T</color><color=#FF3988>h</color><color=#FF4382>e</color> <color=#FF5776>U</color><color=#FF6170>n</color><color=#FF6B6A>k</color><color=#FF7564>n</color><color=#FF7F5E>o</color><color=#FF8958>w</color><color=#FF9352>n</color>

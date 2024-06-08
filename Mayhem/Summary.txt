@@ -1,8 +1,8 @@
 The round has finished!
-<color=#FF0000>M</color><color=#FC0011>A</color><color=#F90022>Y</color><color=#F60033>H</color><color=#F30044>E</color><color=#F00055>M</color> <color=#EA0077>S</color><color=#E80088>C</color><color=#E50099>P</color> <color=#DF00BB>W</color><color=#DC00CC>I</color><color=#D900DD>N</color><color=#D600EE>S</color>
-<b><color=#0400FF>F</color><color=#0E00FF>O</color><color=#1900FF>U</color><color=#2400FF>N</color><color=#2F00FF>D</color><color=#3A00FF>A</color><color=#4400FF>T</color><color=#4F00FF>I</color><color=#5A00FF>O</color><color=#6500FF>N</color> <color=#7A00FF>W</color><color=#8500FF>I</color><color=#9000FF>N</color><color=#9B00FF>S</color></b>
-<b><color=#00B81F>I</color><color=#0BAB2D>N</color><color=#169F3C>S</color><color=#21934B>U</color><color=#2C865A>R</color><color=#377A69>G</color><color=#426E78>E</color><color=#4D6287>N</color><color=#585596>C</color><color=#6349A5>Y</color> <color=#7931C3>W</color><color=#8424D2>I</color><color=#8F18E1>N</color><color=#9A0CF0>S</color></b>
-<b><color=#FFFFFF>S</color><color=#F0F0F0>T</color><color=#E2E2E2>A</color><color=#D4D4D4>L</color><color=#C6C6C6>E</color><color=#B8B8B8>M</color><color=#AAAAAA>A</color><color=#9C9C9C>T</color><color=#8E8E8E>E</color></b>
+<color=#FF2F8E>M</color><color=#F82C92>A</color><color=#F12996>Y</color><color=#EA269A>H</color><color=#E3239F>E</color><color=#DC20A3>M</color> <color=#CE1AAB>S</color><color=#C817B0>C</color><color=#C114B4>P</color> <color=#B30EBC>W</color><color=#AC0BC1>I</color><color=#A508C5>N</color><color=#9E05C9>S</color>
+<b><color=#6A77DE>F</color><color=#6D6FDC>O</color><color=#7067DB>U</color><color=#735FDA>N</color><color=#7658D9>D</color><color=#7950D8>A</color><color=#7C48D7>T</color><color=#7F40D6>I</color><color=#8239D5>O</color><color=#8531D4>N</color> <color=#8B21D2>W</color><color=#8E1AD1>I</color><color=#9112D0>N</color><color=#940ACF>S</color></b>
+<b><color=#66DF4E>I</color><color=#69D056>N</color><color=#6CC15F>S</color><color=#6FB367>U</color><color=#73A470>R</color><color=#769578>G</color><color=#798781>E</color><color=#7D7889>N</color><color=#806992>C</color><color=#835B9A>Y</color> <color=#8A3DAB>W</color><color=#8E2FB4>I</color><color=#9120BC>N</color><color=#9411C5>S</color></b>
+<b><color=#FF9E4C>S</color><color=#FFA443>T</color><color=#FFAA3B>A</color><color=#FFB032>L</color><color=#FFB62A>E</color><color=#FFBD21>M</color><color=#FFC319>A</color><color=#FFC910>T</color><color=#FFCF08>E</color></b>
 The escaped subjects have overrun the facility. Emergency response has been scrambled.
 All threats to safety have been neutralized. Site-02 is secure once again.
 Foundation presence has been exterminated. Operatives standing by for further orders.
@@ -14,6 +14,6 @@ The Alpha Warhead was not detonated during this mission.
 The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
 [summary_scp_terminated] terminated SCPs
 Next round in [summary_next_round_countdown] seconds.
-The <b><color=#d400ff>MAYHEM</color></b> SCPs killed [summary_scpfrags] human beings.
+The <b><color=#9803ce>MAYHEM</color></b> SCPs killed [summary_scpfrags] human beings.
 FLAMINGOS WIN
 All other teams have been exterminated. Total flamingo victory has been achieved.

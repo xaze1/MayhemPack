@@ -8,7 +8,7 @@ Cancel
 I N V E N T O R Y
 BRIGHTNESS
 SETTINGS
-EXIT <color=red>HELL</color>?
+EXIT <color=#ff2f8e>HELL</color>?
 ALPHA WARHEAD IS DISABLED
 ACCESS DENIED
 VOICE CHAT
@@ -20,13 +20,13 @@ Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to
 [1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability
 DOOR HAS BEEN LOCK-DOWN BY SCP-079
 Fullscreen mode
-You can't leave <color=#c800ff>Mayhem</color>. <color=#c800ff>Mayhem</color> leaves you.
+You can't leave <color=#9803ce>Mayhem</color>. <color=#9803ce>Mayhem</color> leaves you.
 Basic options. Full list of settings in the menu.
-<b><color=#FF0000>W</color><color=#FA000E>A</color><color=#F5001C>I</color><color=#F0002A>T</color><color=#EB0038>I</color><color=#E60046>N</color><color=#E10055>G</color> <color=#D70071>F</color><color=#D2007F>O</color><color=#CD008D>R</color> <color=#C300AA>I</color><color=#BE00B8>D</color><color=#B900C6>I</color><color=#B400D4>O</color><color=#AF00E2>T</color><color=#AA00F0>S</color></b>
+<b><color=#FF2F8E>W</color><color=#F82C91>A</color><color=#F22995>I</color><color=#EC2799>T</color><color=#E6249D>I</color><color=#E022A0>N</color><color=#DA1FA4>G</color> <color=#CE1AAC>O</color><color=#C817AF>N</color> <color=#BC12B7>I</color><color=#B60FBB>D</color><color=#B00DBE>I</color><color=#AA0AC2>O</color><color=#A408C6>T</color><color=#9E05CA>S</color></b>
 SUMMARY
-ENJOY <color=green>CHAOS</color>
+ENJOY <color=#66df4>CHAOS</color>
 MAIN VOLUME
-<b><color=#FF9500>c</color><color=#E38419>o</color><color=#C77333>n</color><color=#AB634C>n</color><color=#8F5266>e</color><color=#73427F>c</color><color=#573199>t</color><color=#3B21B2>e</color><color=#1F10CC>d</color></b>
+<b><color=#FF2F8E>c</color><color=#F32A95>o</color><color=#E8259C>n</color><color=#DC20A3>n</color><color=#D11BAA>e</color><color=#C516B1>c</color><color=#BA11B8>t</color><color=#AE0CBF>e</color><color=#A307C6>d</color></b>
 You escaped as a Scientist and joined the MTF units.
 You escaped as a Class D and joined the Chaos Insurgency.
 YOU ARE
@@ -36,8 +36,8 @@ Press <color=yellow><b>F1</b></color> for help.
 You have been cuffed.\n<size=40>Follow orders or ask teammates for help.</size>
 You were recaptured by the Nine-Tailed Fox.\nWith one less threat in the facility, they were able to reinforce.
 You were taken prisoner as a scientist by the Chaos Insurgency.\nThey were able to gain an advantage from the information you gave them.
-<b><color=#FF0000>R</color><color=#F90011>O</color><color=#F30022>U</color><color=#ED0033>N</color><color=#E70044>D</color> <color=#DB0066>S</color><color=#D50077>T</color><color=#CF0088>A</color><color=#C90099>R</color><color=#C300AA>T</color> <color=#B700CC>I</color><color=#B100DD>N</color><color=#AB00EE>:</color></b> <color=yellow>{0}</color>s
-<b><color=#EE00FF>R</color><color=#EE07F2>O</color><color=#EF0EE6>U</color><color=#F015DA>N</color><color=#F11CCE>D</color> <color=#F22AB6>S</color><color=#F331AA>T</color><color=#F4389D>A</color><color=#F53F91>R</color><color=#F64685>T</color> <color=#F7556D>I</color><color=#F85C61>S</color> <color=#FF5050>PAUSED</color> 
+<b><color=#FF2F8E>R</color><color=#F82C92>O</color><color=#F12996>U</color><color=#EA269A>N</color><color=#E3239F>D</color> <color=#D51DA7>S</color><color=#CE1AAB>T</color><color=#C817B0>A</color><color=#C114B4>R</color><color=#BA11B8>T</color> <color=#AC0BC1>I</color><color=#A508C5>N</color><color=#9E05C9>:</color></b> <color=#ffd600>{0}</color>s
+<b><color=#FF2F8E>R</color><color=#FA2C91>O</color><color=#F52A94>U</color><color=#F02897>N</color><color=#EB269A>D</color> <color=#E122A0>S</color><color=#DC20A3>T</color><color=#D71EA6>A</color><color=#D21CA9>R</color><color=#CD1AAC>T</color> <color=#C415B2>I</color><color=#BF13B5>S</color> <color=#B50FBB>P</color><color=#B00DBE>A</color><color=#AB0BC1>U</color><color=#A609C4>S</color><color=#A107C7>E</color><color=#9C05CA>D</color></b>
 AIMING SENS. REDUCTION
 Press [key] to cancel the throw.
 ADS Toggle
