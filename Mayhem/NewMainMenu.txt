@@ -1,21 +1,21 @@
-Information
-Mayhem
-Settings
-No
+<color=#00A9FF>📰</color> <color=#00A9FF>I</color><color=#00B0FE>n</color><color=#00B8FE>f</color><color=#00C0FD>o</color><color=#00C8FD>r</color><color=#00D0FD>m</color><color=#00D7FC>a</color><color=#00DFFC>t</color><color=#00E7FC>i</color><color=#00EFFB>o</color><color=#00F7FB>n</color>
+<color=#7300FF>M</color><color=#8A00D4>a</color><color=#A100AA>y</color><color=#B9007F>h</color><color=#D00055>e</color><color=#E7002A>m</color>
+<color=#CFCFCF>S</color><color=#B5B5B5>e</color><color=#9B9B9B>t</color><color=#818181>t</color><color=#676767>i</color><color=#4D4D4D>n</color><color=#333333>g</color><color=#191919>s</color>
+<color=red>✖️ | No</color>
 Social Media
-Internet
-Favourites
-Official
-History
-Friends
-Search Servers
+<color=#77B4EE>✳️</color> <color=#77B4EE>I</color><color=#689DF0>n</color><color=#5987F2>t</color><color=#4A70F4>e</color><color=#3B5AF6>r</color><color=#2C43F8>n</color><color=#1D2DFA>e</color><color=#0E16FC>t</color>
+<color=#FF4242>★</color> <color=#FF4242>F</color><color=#FA3B3B>a</color><color=#F53434>v</color><color=#F12E2E>o</color><color=#EC2727>u</color><color=#E82020>r</color><color=#E31A1A>i</color><color=#DE1313>t</color><color=#DA0D0D>e</color><color=#D50606>s</color>
+<color=#2CC502>✔️</color> <color=#2CC502>O</color><color=#46C801>f</color><color=#60CB01>f</color><color=#7BCE01>i</color><color=#95D101>c</color><color=#AFD400>i</color><color=#CAD700>a</color><color=#E4DA00>l</color>
+<color=#001EFF>➡️</color> <color=#001EFF>H</color><color=#153EDA>i</color><color=#2B5EB6>s</color><color=#417E91>t</color><color=#579E6D>o</color><color=#6DBE48>r</color><color=#83DE24>y</color>
+<color=#FF0ABE>❤️</color> <color=#FF0ABE>F</color><color=#FF08A2>r</color><color=#FF0787>i</color><color=#FF056C>e</color><color=#FF0451>n</color><color=#FF0236>d</color><color=#FF011B>s</color>
+<color=#93D7BD>🔎</color> <color=#93D7BD>S</color><color=#93C8B6>e</color><color=#93BAAF>a</color><color=#94ACA9>r</color><color=#949DA2>c</color><color=#958F9B>h</color> <color=#95738E>S</color><color=#966487>e</color><color=#965681>r</color><color=#97487A>v</color><color=#973973>e</color><color=#982B6D>r</color><color=#981D66>s</color>
 Create Server
-Re-Join
+<color=#FF8B1F>R</color><color=#F07928>e</color><color=#E16731>-</color><color=#D3553A>J</color><color=#C44444>o</color><color=#B6324D>i</color><color=#A72056>n</color>
 Direct Connect
-Refresh
-Hide Empty Games
-Hide Full Games
-No Whitelist
+<color=#B80A0A>R</color><color=#AB210F>e</color><color=#9E3815>f</color><color=#91501B>r</color><color=#846720>e</color><color=#777F26>s</color><color=#6A962C>h</color>
+<color=#A1A1A1>H</color><color=#969696>i</color><color=#8C8C8C>d</color><color=#828282>e</color> <color=#6E6E6E>E</color><color=#646464>m</color><color=#5A5A5A>p</color><color=#505050>t</color><color=#464646>y</color> <color=#323232>G</color><color=#282828>a</color><color=#1E1E1E>m</color><color=#141414>e</color><color=#0A0A0A>s</color>
+<color=#FF0000>H</color><color=#FF1111>i</color><color=#FF2222>d</color><color=#FF3333>e</color> <color=#FF5555>F</color><color=#FF6666>u</color><color=#FF7777>l</color><color=#FF8888>l</color> <color=#FFAAAA>G</color><color=#FFBBBB>a</color><color=#FFCCCC>m</color><color=#FFDDDD>e</color><color=#FFEEEE>s</color>
+<color=#FFFFFF>N</color><color=#EDEDF0>o</color> <color=#CBC9D3>W</color><color=#BAB7C5>h</color><color=#A9A5B7>i</color><color=#9893A8>t</color><color=#86819A>e</color><color=#756F8C>l</color><color=#645D7D>i</color><color=#534B6F>s</color><color=#423961>t</color>
 Video
 Audio
 Controls
