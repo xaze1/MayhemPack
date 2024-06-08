@@ -16,3 +16,35 @@ If you want a special version then DM me on discord: xaze_
 When dming me tell me why you are dming me, otherwise I might not accept it
 
 (Incase you see changes, but not a new release just download the folder/zip instead of downloading the release)
+
+# Showcase
+
+## Waiting For Players
+<img src="https://i.imgur.com/DQOu2FK.png">
+
+## Alpha Warhead
+
+### Deactivated
+<img src="https://i.imgur.com/QjyE52X.png">
+
+### Activate
+<img src="https://i.imgur.com/heGx3U2.png">
+
+### Stand-by
+<img src="https://i.imgur.com/mf8qltD.png">
+
+## Intercom
+
+### Ready
+<img src="https://i.imgur.com/KBeBIn6.png">
+
+### Broadcasting
+<img src="https://i.imgur.com/90I5kvs.png">
+
+### Restarting
+<img src="https://i.imgur.com/OePR49w.png">
+
+## Roles
+
+### SCPs
+<img src="https://i.imgur.com/70G6vQh.png">
