@@ -1,8 +1,8 @@
-It's <b>[user]</b>'s body - they were Gay [class]!\n\nCause of death: [cause]
+<color=red>Player: <b>[user]</b></color> - Role: [class]<color=#ff7300>\nObservation: [cause]</color>
 Recontained.
 Experienced big Skill Issue.
 Sudden cessation of life signs. No clear trauma.
-Skill Issue.
+Disconnected.
 Severe electrical burns.
 Oxygen deprivation resulted in a death of asphyxia.
 Severe blood loss caused by deep wounds.
@@ -16,7 +16,7 @@ The poison has finished you.
 Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
 SCP-207 has finished you.
 Oh no! You lost your hands!
-You killed yourself with the Tesla Gate.
+You killed yourself with a Tesla Gate.
 HAHA BOOM!
 You died by a explosion.
 Massive lacerations and excessive blood loss.
@@ -26,7 +26,7 @@ Blunt trauma and minor scratches are present on the body.
 [ammotype] bullet wounds.
 Fatal blunt trauma; the body is badly mutilated and pulped.
 Signs of severe trauma to both femur bones suggests death by circulatory shock.
-You've been sacrificed to recontain SCP-106.
+You've been sacrificed to recontain <color=red>SCP-106</color>.
 Automatically killed for friendly fire.
 Died by Freezing to Death by Grandma.
 You died by Grandma.

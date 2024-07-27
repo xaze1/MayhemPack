@@ -56,11 +56,11 @@ DOOR LOCK ALREADY ACTIVE
 <color=yellow>⚠</color> ZONE-WIDE BLACKOUT COOLDOWN <color=yellow>⚠</color>
 🚨 BLACKOUT ALREADY ACTIVE 🚨
 ❌ BLACKOUT UNAVAILABLE FOR THIS ZONE ❌
-🔬 TOTAL LIFEFORMS
-💀 TARGETS
-<color=#EC2222>🌀 SCP SUBJECTS</color>
-<color=#f5eb9c>📋 CIVILIAN</color>
-<color=#9cc7f5>🔫 MILITARY</color>
+<color=#A600FF>🔬</color> <color=#B000E1>T</color><color=#B500D2>O</color><color=#BA00C3>T</color><color=#C000B4>A</color><color=#C500A5>L</color> <color=#CF0087>L</color><color=#D50078>I</color><color=#DA0069>F</color><color=#DF005A>E</color><color=#E4004B>F</color><color=#EA003C>O</color><color=#EF002D>R</color><color=#F4001E>M</color><color=#F9000F>S</color>
+<color=#A600FF>💀</color> <color=#B900C6>T</color><color=#C300A9>A</color><color=#CD008D>R</color><color=#D70071>G</color><color=#E10054>E</color><color=#EB0038>T</color><color=#F5001C>S</color>
+<color=#EC2222>🌀 <color=#A600FF>S</color><color=#AD00E9>C</color><color=#B400D4>P</color> <color=#C300AA>S</color><color=#CB0094>U</color><color=#D2007F>B</color><color=#D9006A>J</color><color=#E10055>E</color><color=#E8003F>C</color><color=#F0002A>T</color><color=#F70015>S</color>
+<color=#f5eb9c>📋 <color=#A600FF>C</color><color=#AF1DF2>I</color><color=#B93AE6>V</color><color=#C358D9>I</color><color=#CD75CD>L</color><color=#D792C1>I</color><color=#E1B0B4>A</color><color=#EBCDA8>N</color>
+<color=#9cc7f5>🔫 <color=#A600FF>M</color><color=#A418FD>I</color><color=#A331FC>L</color><color=#A24AFB>I</color><color=#A163FA>T</color><color=#9F7CF8>A</color><color=#9E95F7>R</color><color=#9DAEF6>Y</color>
 <color=#8080FF>🔊</color> USE SPEAKER
 ⛔ ELEVATOR ACCESS DENIED ⛔
 SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.

@@ -16,7 +16,7 @@
 15~Flashlight~Let there be light!
 16~Micro H.I.D.~Mobile high-intensity electrical discharge thrower.
 17~<color=red>+</color>SCP-500<color=red>+</color>~<color=red>Heal Amount: 100 HP</color>\nUsage Time: 1s\nAdditional Info:<size=10>\n- Painkiller Regeneration after usage(100 HP)</size>
-18~SCP-207~Object Class: <color=#32cd32>Safe</color>\n<color=red>HP Drain:<size=20>\n1x 1.5 HP/s \t2x 2.5 HP/s\n3x 4 HP/s</size></color>\n<color=#00b3ff>Speed:\n<size=20>1x 10% Increase\n2x 20% Incrase\n3x 40% Increase</size></color>
+18~SCP-207~Object Class: <color=#32cd32>Safe</color>\n<color=red>HP Drain:<size=20>\n1x 1.5 HP/s \t2x 2.5 HP/s\n3x 4 HP/s</size></color>\n<color=#00b3ff>Speed:\n<size=20>1x 15% Increase\n2x 30% Incrase\n3x 45% Increase</size></color>
 20~MTF-E11-SR
 21~Crossvec
 23~FSP-9
@@ -27,7 +27,7 @@
 31~SCP-018~Superball able to bounce with extreme efficiency.
 32~SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
 33~<color=red>+</color>Adrenaline<color=red>+</color>~<color=red>Heal Amount: 45 AHP</color>\nUsage Time: 2s\nAdditional Info:<size=10>\n- Invigorated (5s)\n-Stamina Replenished</size>
-34~<color=red>+</color>Painkillers<color=red>+</color>~<color=red>Heal Amount: 50 HP(RegenOvertime)</color>Usage Time: 1s
+34~<color=red>+</color>Painkillers<color=red>+</color>~<color=red>Heal Amount: 50 HP(RegenOvertime)</color>\nUsage Time: 1s
 35~Coin~You're not sure why you'd want to carry this around...
 36~Light Armor
 37~Combat Armor
