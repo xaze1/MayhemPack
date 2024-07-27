@@ -9,12 +9,12 @@ Severe blood loss caused by deep wounds.
 You have bled out.
 Died to Fall Damage.
 You have fallen down.
-106 is better.
-Melted by a highly corrosive substance.
-Sickly yellow skin and a rancid smell suggests death by poison.
-The poison has finished you.
+death caused by the better SCP, <color=red>SCP-106</color>
+died to Decontarmination
+death by <color=#11ff00>poison</color>
+The <color=#11ff00>poison</color> has finished you.
 Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
-SCP-207 has finished you.
+<color=#ff00a2>SCP-207</color> has finished you.
 Oh no! You lost your hands!
 You killed yourself with a Tesla Gate.
 HAHA BOOM!
