@@ -48,3 +48,10 @@
 52~FR-MG-0
 53~A7
 54~Lantern~A classic oil lantern, inscribed with the name "Daniel".
+55~SCP-1344~A set of modified goggles that lets you perceive the positions of other players through walls. Once worn, they must never be removed!
+56~Snowball
+57~Coal
+58~Coal?
+59~Tape Player?~Contains an unlabeled tape. Please don’t play it. Please.
+61~Surface Access Pass~Single-use access pass for opening exit gates.
+62~SCP-127

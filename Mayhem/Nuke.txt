@@ -1,4 +1,0 @@
-<size=360><color=red>☢</color></size>\n<size=80><color=#b11cc4>/x\ Currently disabled /x\</color></size>
-<size=360><color=#ffae00>X</color></size>\n<size=80><color=#b11cc4>/o\ Stand-by /o\</color></size>
-<size=350><color=lime>☢</color></size>\n<size=60><color=#A706FF><b><color=yellow>/!\</color> MAY TRIGGER A <color=red>DOOMSDAY</color> <color=yellow>/!\</color></b></color></size>
-<color=#b11cc4><size=30>🚨</size> ABOUT TO EXPLODE <size=30>🚨</size></color>
