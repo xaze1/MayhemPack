@@ -1,19 +1,19 @@
-0~Janitor Keycard
-1~<color=yellow>Scientist Keycard</color>
-2~<color=orange>Research Supervisor Keycard</color>
-3~<color=#008080>Zone Manager Keycard</color>
-4~<color=#727472>Guard Keycard</color>
-5~<color=blue>MTF Private Keycard</color>
-6~<color=#727472>Containment Engineer Keycard</color>
-7~<color=blue>MTF Operative Keycard</color>
-8~<color=#002DB3>MTF Captain Keycard</color>
-9~<color=red>Facility Manager Keycard</color>
-10~<color=green>Chaos Insurgency Access Device</color>
-11~<color=black>O5-level Keycard</color>
+0~💳 Janitor Keycard
+1~<color=yellow>💳 Scientist Keycard</color>
+2~<color=orange>💳 Research Supervisor Keycard</color>
+3~<color=#008080>💳 Zone Manager Keycard</color>
+4~<color=#727472>💳 Guard Keycard</color>
+5~<color=blue>💳 MTF Private Keycard</color>
+6~<color=#727472>💳 Containment Engineer Keycard</color>
+7~<color=blue>💳 MTF Operative Keycard</color>
+8~<color=#002DB3>💳 MTF Captain Keycard</color>
+9~<color=red>💳 Facility Manager Keycard</color>
+10~<color=green>💳 Chaos Insurgency Access Device</color>
+11~<color=black>💳 O5-level Keycard</color>
 12~📶 Radio 📶~<size=15>Short Range - Current Zone\nMedium Range - Current Zone + Next Zone(s)\nLong Range - Current Zone + Two next Zones\nUltra Range - Every Zone</size>
 13~COM-15
 14~<color=red>+</color>First Aid Kit<color=red>+</color>~<color=red>Heal Amount: 65 HP</color>\nUsage Time: 3s
-15~Flashlight~Let there be light!
+15~🔦 Flashlight~Let there be light!
 16~Micro H.I.D.~Mobile high-intensity electrical discharge thrower.
 17~<color=red>+</color>SCP-500<color=red>+</color>~<color=red>Heal Amount: 100 HP</color>\nUsage Time: 1s\nAdditional Info:<size=10>\n- Painkiller Regeneration after usage(100 HP)</size>
 18~SCP-207~Object Class: <color=#32cd32>Safe</color>\n<color=red>HP Drain:<size=20>\n1x 1.5 HP/s \t2x 2.5 HP/s\n3x 4 HP/s</size></color>\n<color=#00b3ff>Speed:\n<size=20>1x 15% Increase\n2x 30% Incrase\n3x 45% Increase</size></color>
@@ -21,17 +21,17 @@
 21~Crossvec
 23~FSP-9
 24~Logicer
-25~High-Explosive Grenade~Damage: 300\nRange: 19m
-26~Flashbang Grenade~Blinds your enemies.
+25~💥 High-Explosive Grenade~Damage: 300\nRange: 19m
+26~💥 Flashbang Grenade~Blinds your enemies.
 30~COM-18
 31~SCP-018~Superball able to bounce with extreme efficiency.
 32~SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
 33~<color=red>+</color>Adrenaline<color=red>+</color>~<color=red>Heal Amount: 45 AHP</color>\nUsage Time: 2s\nAdditional Info:<size=10>\n- Invigorated (5s)\n-Stamina Replenished</size>
 34~<color=red>+</color>Painkillers<color=red>+</color>~<color=red>Heal Amount: 50 HP(RegenOvertime)</color>\nUsage Time: 1s
-35~Coin~You're not sure why you'd want to carry this around...
-36~Light Armor
-37~Combat Armor
-38~Heavy Armor
+35~🪙 Coin~You're not sure why you'd want to carry this around...
+36~🦺 Light Armor
+37~🦺 Combat Armor
+38~🦺 Heavy Armor
 39~.44 Revolver
 40~AK
 41~Shotgun
@@ -47,11 +47,11 @@
 51~<color=#b11cc4>Anti-207</color>~<color=red>HP Gain:\n<size=20>1x 0.1 HP/s\t2x 0.15 HP/s\n3x 0.25 HP/s\t4x 0.4 HP/s</color><color=#00b3ff>\nSpeed:\n1x 4.87 m/s\2x 4.6 m/s\n3x 4.32 m/s\t4x 4.03 m/s</size></color>
 52~FR-MG-0
 53~A7
-54~Lantern~A classic oil lantern, inscribed with the name "Daniel".
-55~SCP-1344~A set of modified goggles that lets you perceive the positions of other players through walls. Once worn, they must never be removed!
-56~Snowball
+54~🔦 Lantern~A classic oil lantern, inscribed with the name "Daniel".
+55~👓 SCP-1344~A set of modified goggles that lets you perceive the positions of other players through walls. Once worn, they must never be removed!
+56~❄️Snowball❄️
 57~Coal
 58~Coal?
 59~Tape Player?~Contains an unlabeled tape. Please don’t play it. Please.
-61~Surface Access Pass~Single-use access pass for opening exit gates.
-62~SCP-127
+61~💳 Surface Access Pass~Single-use access pass for opening exit gates.
+62~🔫 SCP-127
